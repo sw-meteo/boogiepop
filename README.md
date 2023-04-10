@@ -35,6 +35,7 @@
 | 21   |                                                          |                                                      | https://www.lightnovel.us/detail/1121361                 |
 | 22   | ブギーポップ・ビューティフル パニックキュート帝王学      | 美丽的不吉波普—Panic cute帝王学                      | https://www.lightnovel.us/series/1597                    |
 | 22   |                                                          |                                                      | （epub整理）https://www.lightnovel.us/detail/1105477     |
+| 22   |                                                          |                                                      | https://tieba.baidu.com/p/7118785484                     |
 | 23   | ブギーポップ・オールマイティ ディジーがリジーを想うとき  | 全能的不吉波普—当Dizzy思恋Lizzy的时候                | https://www.lightnovel.us/series/2386                    |
 | 23   |                                                          |                                                      | （epub整理）https://www.lightnovel.us/detail/1105507     |
 | 23   |                                                          |                                                      | https://tieba.baidu.com/p/7118784551                     |
