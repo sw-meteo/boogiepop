@@ -39,7 +39,7 @@
 | 22   | ブギーポップ・ビューティフル パニックキュート帝王学     | 美丽的不吉波普—Panic cute帝王学                  | orag柑        | orag柑@LK       | complete | [🔗](https://www.lightnovel.us/series/1597)                  | （epub）[🔗](https://www.lightnovel.us/detail/1105477)       |
 | 22   | ↑                                                       | ↑                                                | 少佐猫        | Lekvwa@blogspot | complete | [🔗](https://lekvwa.blogspot.com/2023/08/bd-22.html)         |                                                             |
 | 23   | ブギーポップ・オールマイティ ディジーがリジーを想うとき | 全能的不吉波普—当Dizzy思恋Lizzy的时候            | orag柑        | orag柑@LK       | complete | [🔗](https://www.lightnovel.us/series/2386)                  | （epub）[🔗](https://www.lightnovel.us/detail/1105507)       |
-| 23   | ↑                                                       | ↑                                                | 少佐猫        | Lekvwa@blogspot | complete | [🔗](https://www.pixiv.net/novel/show.php?id=19862972)       |                                                             |
+| 23   | ↑                                                       | ↑                                                | 少佐猫        | Lekvwa@pixiv | complete | unavailable       |                                                             |
 
 另：英译版（更新到vol9） https://www.threatstotheworld.com/main-novels 
 
