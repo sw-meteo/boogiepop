@@ -6,7 +6,7 @@
 >
 > 如有错误、遗漏欢迎直接联系我的邮箱 entropette@outlook.com 
 
-最近更新：2023-09-03
+最近更新：2023-09-27
 
 ## 汇总列表 
 
@@ -20,9 +20,9 @@
 | 6    | 夜明けのブギーポップ                                    | 黎明的不吉波普                                   | 十六          | Oscuro@LK          | complete | [🔗](https://www.lightnovel.us/detail/957683)                | [🔗](https://obsolete.lightnovel.us/thread-957683-1-1.html)  |
 | 7    | ブギーポップ・ミッシング ペパーミントの魔術師           | 不吉波普消失 辣薄荷的魔术师                      | 七七七千爱    | Oscuro@LK          | complete | [🔗](https://www.lightnovel.us/detail/979008)                | [🔗](https://obsolete.lightnovel.us/thread-979008-1-1.html)  |
 | 8    | ブギーポップ・カウントダウン エンブリオ侵蝕             | 不吉波普倒计时 胚胎侵蚀                          | Oscuro        | Oscuro@LK          | chap1-2  | [🔗](https://www.lightnovel.us/detail/1009633)               | [🔗](https://obsolete.lightnovel.us/thread-1009633-1-1.html) |
-| 8    | ↑                                                       | ↑                                                |               | 无838@贴吧         | chap3-4  | [🔗](https://tieba.baidu.com/p/8559795022)                   |                                                             |
+| 8    | ↑                                                       | ↑                                                |               | 无838@贴吧         | chap3-5  | [🔗](https://tieba.baidu.com/p/8559795022)                   |                                                             |
 | 9    | ブギーポップ・ウィキッド エンブリオ炎生                 | -                                                | -             | -                  | -        | None                                                        |                                                             |
-| 10   | ブギーポップ・パラドックス ハートレス・レッド           | 不吉波普悖论 无心之红                            | 十六          | Oscuro@LK          | chap5    | [🔗](https://www.lightnovel.us/detail/1014632)               | [🔗](https://obsolete.lightnovel.us/thread-1014632-1-1.html) |
+| 10   | ブギーポップ・パラドックス ハートレス・レッド           | 不吉波普悖论 无心之红                            | 十六          | Oscuro@LK          | complete    | [🔗](https://www.lightnovel.us/detail/1014632)               | [🔗](https://obsolete.lightnovel.us/thread-1014632-1-1.html) |
 | 11   | ブギーポップ・アンバランス ホーリィ&ゴースト            | 不吉波普失衡 圣与幽                              | 十六          | Oscuro@LK          | chap1    | [🔗](https://www.lightnovel.us/detail/1078471)               |                                                             |
 | 11   |                                                         | 不吉波普失衡 圣与幽 不平衡的不吉波普——圣灵与幽灵 | licht_adler   | licht_adler@LK     | complete | [🔗](https://www.lightnovel.us/detail/1091497)               |                                                             |
 | 12   | ブギーポップ・スタッカート ジンクス・ショップへようこそ | 断奏的不吉波普——欢迎来到金克斯商店               | licht_adler   | licht_adler@LK     | complete | [🔗](https://www.lightnovel.us/detail/1100247)               |                                                             |
@@ -41,7 +41,7 @@
 | 22   | ブギーポップ・ビューティフル パニックキュート帝王学     | 美丽的不吉波普—Panic cute帝王学                  | orag柑        | orag柑@LK          | complete | [🔗](https://www.lightnovel.us/series/1597)                  | （epub）[🔗](https://www.lightnovel.us/detail/1105477)       |
 | 22   | ↑                                                       | ↑                                                | 少佐猫        | Lekvwa@blogspot    | complete | [🔗](https://lekvwa.blogspot.com/2023/08/bd-22.html)         |                                                             |
 | 23   | ブギーポップ・オールマイティ ディジーがリジーを想うとき | 全能的不吉波普—当Dizzy思恋Lizzy的时候            | orag柑        | orag柑@LK          | complete | [🔗](https://www.lightnovel.us/series/2386)                  | （epub）[🔗](https://www.lightnovel.us/detail/1105507)       |
-| 23   | ↑                                                       | ↑                                                | 少佐猫        | Lekvwa@pixiv       | complete | unavailable                                                 |                                                             |
+| 23   | ↑                                                       | ↑                                                | 少佐猫        | Lekvwa@blogspot      | complete | [🔗](https://lekvwa.blogspot.com/2023/09/bd-23.html)                                                 |                                                             |
 | 24   | ブギーポップは呪われる                                  | -                                                | -             | -                  | -        | None                                                        | -                                                           |
 
 另：英译版（更新到vol9） https://www.threatstotheworld.com/main-novels 
@@ -51,27 +51,3 @@
 - 只收录译者发布页面和授权的epub整理等，暂不收录wenku等疑为无授权转载的地址
 - 横向为同一翻译版本，纵向为不同译者的版本
 - 同一本原作的不同翻译版本、译名不分先后顺序，表格内容取决于整理者先找到哪个版本
-
-## 更新日志
-
-### 2023-09-03
-
-- 增加贴吧第八卷翻译
-
-### 2023-08-10
-
-- 增加vol24的信息和vol21的贴吧版翻译
-
-### 2023-08-06
-
-- 更新少佐猫大佬的翻译地址
-
-### 2023-06-07
-
-- 新增译者和进度信息
-- 因为表格太长了，同步上传了excel文件
-
-### 2023-05-15
-
-- 16-23卷贴吧版更新为pixiv整理版本（Lekvwa@pixiv）
-- 轻国维护，更新一些能找到的旧版轻国链接作为替代
