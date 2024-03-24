@@ -1,14 +1,10 @@
 # 不吉波普不笑 汉化汇总
 
 > 整理目前网络上对不吉波普系列的个人汉化
->
 > 仅提供链接，请到译者发布界面阅读
->
 > 如有错误、遗漏欢迎直接联系我的邮箱 entropette@outlook.com 
 
-最近更新：2023-10-11
-
-NOTE：近日轻之国度服务器下线了几天，目前已恢复。
+最近更新：2024-03-24
 
 ## 汇总列表 
 
@@ -22,8 +18,8 @@ NOTE：近日轻之国度服务器下线了几天，目前已恢复。
 | 6    | 夜明けのブギーポップ                                    | 黎明的不吉波普                                   | 十六          | Oscuro@LK          | complete       | [🔗](https://www.lightnovel.us/detail/957683)                | [🔗](https://obsolete.lightnovel.us/thread-957683-1-1.html)  |
 | 7    | ブギーポップ・ミッシング ペパーミントの魔術師           | 不吉波普消失 辣薄荷的魔术师                      | 七七七千爱    | Oscuro@LK          | complete       | [🔗](https://www.lightnovel.us/detail/979008)                | [🔗](https://obsolete.lightnovel.us/thread-979008-1-1.html)  |
 | 8    | ブギーポップ・カウントダウン エンブリオ侵蝕             | 不吉波普倒计时 胚胎侵蚀                          | Oscuro        | Oscuro@LK          | chap1-2        | [🔗](https://www.lightnovel.us/detail/1009633)               | [🔗](https://obsolete.lightnovel.us/thread-1009633-1-1.html) |
-| 8    | ↑                                                       | ↑                                                |               | 无838@贴吧         | chap3-complete | [🔗](https://tieba.baidu.com/p/8559795022)                   |                                                             |
-| 9    | ブギーポップ・ウィキッド エンブリオ炎生                 | -                                                | -             | -                  | -              | None                                                        |                                                             |
+| 8    | ↑                                                       | ↑                                                | 无838         | 无838@贴吧         | chap3-complete | [🔗](https://tieba.baidu.com/p/8559795022)                   |                                                             |
+| 9    | ブギーポップ・ウィキッド エンブリオ炎生                 | 邪恶的不吉波普 胚胎爆发                          | 无838         | 无838@贴吧         | chap1-chap4    | [🔗](https://tieba.baidu.com/p/8716782533)                   |                                                             |
 | 10   | ブギーポップ・パラドックス ハートレス・レッド           | 不吉波普悖论 无心之红                            | 十六          | Oscuro@LK          | complete       | [🔗](https://www.lightnovel.us/detail/1014632)               | [🔗](https://obsolete.lightnovel.us/thread-1014632-1-1.html) |
 | 11   | ブギーポップ・アンバランス ホーリィ&ゴースト            | 不吉波普失衡 圣与幽                              | 十六          | Oscuro@LK          | chap1          | [🔗](https://www.lightnovel.us/detail/1078471)               |                                                             |
 | 11   | ↑                                                       | 不吉波普失衡 圣与幽 不平衡的不吉波普——圣灵与幽灵 | licht_adler   | licht_adler@LK     | complete       | [🔗](https://www.lightnovel.us/detail/1091497)               |                                                             |
@@ -46,7 +42,7 @@ NOTE：近日轻之国度服务器下线了几天，目前已恢复。
 | 23   | ↑                                                       | ↑                                                | 少佐猫        | Lekvwa@blogspot    | complete       | [🔗](https://lekvwa.blogspot.com/2023/09/bd-23.html)         |                                                             |
 | 24   | ブギーポップは呪われる                                  | -                                                | -             | -                  | -              | None                                                        | -                                                           |
 
-另：英译版（更新到vol9） https://www.threatstotheworld.com/main-novels 
+另：英译版（更新到vol10） https://www.threatstotheworld.com/main-novels 
 
 ## 注意事项
 
@@ -54,3 +50,4 @@ NOTE：近日轻之国度服务器下线了几天，目前已恢复。
 - 横向为同一翻译版本，纵向为不同译者的版本
 - 同一本原作的不同翻译版本、译名不分先后顺序，表格内容取决于整理者先找到哪个版本
 - 轻国不太稳定，网页版上不去可以试试手机版，手机版也上不去就只能多等几天了：）
+- 上blogspot和轻国请挂梯子
